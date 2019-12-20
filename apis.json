@@ -1,0 +1,49 @@
+{
+    "name": "Willow Garage",
+    "description": "Helping to revolutionize the world of personal robotics",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2693-willow-garage.jpg",
+    "tags": [
+        "have api",
+        "robotics",
+        "robots"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/willow-garage\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Willow Garage",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2693-willow-garage.jpg",
+            "humanURL": "http:\/\/www.willowgarage.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/willow-garage-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.willowgarage.com\/news\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/willow-garage"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/willowgarage"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.willowgarage.com\/"
+        }
+    ]
+}
